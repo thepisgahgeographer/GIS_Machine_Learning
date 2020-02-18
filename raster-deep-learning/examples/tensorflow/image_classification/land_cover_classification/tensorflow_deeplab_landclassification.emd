@@ -1,7 +1,7 @@
 {
     "Framework":"TensorFlow",
     "ModelConfiguration":"DeepLab",
-    "ModelFile":".\\frozen_inference_graph.pb",
+    "ModelFile":"C:\\Users\\yuri7100\\Desktop\\TensorFlow_LandClassification\\LandClassification\\frozen_inference_graph.pb",
     "ModelType":"ImageClassification",
     "ExtractBands":[0,1,2],
     "ImageWidth":256,
