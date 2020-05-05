@@ -2,6 +2,8 @@ from pathlib import Path
 import fastai
 from fastai import utils
 import platform
+import matplotlib 
+from fastai.basics import *
 
 
 #Working with PurePaths through pathlib
